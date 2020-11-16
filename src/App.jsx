@@ -1,3 +1,4 @@
+import React from 'react';
 import FormMovie from './components/FormMovie';
 
 function App() {
